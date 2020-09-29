@@ -8,6 +8,8 @@ My name is Sarah, and I'm an 18 year old swen major from Brockton, MA. I graduat
 
 ### Expectations for Course
 
-- Become more confident in my github usage
-- Learn good work practices
-- Learn and become confident in SWEN workflows and testing
+1. Become more confident in my github usage
+2. Learn good work practices
+3. Learn and become confident in SWEN workflows and testing
+#### Link to SE Website
+- [RIT Software Engineering Website](http://www.se.rit.edu/)
